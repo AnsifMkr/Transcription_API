@@ -46,12 +46,18 @@ http://127.0.0.1:8000/
 
 ## API 
 ### POST /api/transcript/
-URL:- http://127.0.0.1:8000/api/transcript/
-Content-Type: application/json
+**URL:**  
+`http://127.0.0.1:8000/api/transcript/`
 
+**Content-Type:**  
+`application/json`
+
+**Payload (Body):**
+```json
 {
   "link_audio": "https://youtube.com/shorts/4DrO-dVAEgk?si=6EH9_5jSXyAwnpUf"
 }
+```
 
 
 
