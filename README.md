@@ -47,7 +47,8 @@ http://127.0.0.1:8000/
 ## API 
 ### POST /api/transcript/
 **URL:**  
-`http://127.0.0.1:8000/api/transcript/`
+`http://127.0.0.1:8000/api/transcript/` OR
+`https://django-hello-world-one-ashy.vercel.app/api/transcript/`
 
 **Content-Type:**  
 `application/json`
@@ -55,7 +56,7 @@ http://127.0.0.1:8000/
 **Payload (Body):**
 ```json
 {
-  "link_audio": "https://youtube.com/shorts/4DrO-dVAEgk?si=6EH9_5jSXyAwnpUf"
+  "link_audio": "https://youtube.com/shorts/4DrO-dVAEgk?si=6EH9_5jSXyAwnpUf](https://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0030_8k.wav"
 }
 ```
 
